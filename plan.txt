@@ -1,0 +1,15 @@
+Datasets of interest:
+ - health_related_qol (main)
+ - population_by_zip_2000/2010
+
+TODO
+ - create an ERD to help in figuring out 3NF
+
+ Cleaning:
+ - health_related_qol (convert to 3NF)
+ 
+
+Decisions:
+ - Need to decide how I want to categorize data (State, Zip, etc)
+ - My ideas are very broad - I need to cut down and focus on a couple of variables
+    - I like religion and mental health factors, maybe physical
