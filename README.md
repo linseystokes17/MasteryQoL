@@ -10,3 +10,5 @@ This project contains an analysis of the different variables that effect the Qua
 - age
 
 Quality of Life is defined as: the standard of health, comfort, and happiness experienced by an individual or group
+
+Primary Question: How does religion influence Mental Health and the QoL?
